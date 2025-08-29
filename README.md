@@ -5,6 +5,30 @@
 
 🔎 Looking for new opportunities in blockchain, market-making & trading automation, and decentralized communication.  
 
+## Projects & Contributions
+
+- [**MarketMaking.App**](https://github.com/Adamant-im/adamant-tradebot) — Self-hosted Market-Making Bot  
+  Designed for crypto projects to maintain **liquidity, spread, and trading volume**  
+  Exchange connectors, strategy modules, and deployment tooling  
+
+- [**ADAMANT Messenger**](https://github.com/adamant-im) — Blockchain communication platform  
+  Contributor to **secure, decentralized, anonymous messenger**  
+  Focus on blockchain nodes, app integrations, and bot ecosystem  
+
+- **Ethereum ecosystem**  
+  Contributor to Ethereum services and tooling  
+  [**Ethereum Transaction Indexer**](https://github.com/Adamant-im/ETH-transactions-storage) — Indexer for Ethereum to get transaction list by ETH address  
+  Integrations with ERC-20 tokens, gas optimizations, API services  
+
+- **DEX platforms**  
+  Contributions to decentralized trading platforms  
+  Expertise in swaps, liquidity pools, and on-chain trading bots  
+
+- **CEX APIs & Bots**  
+  Advanced experience with centralized exchange APIs  
+  [**Gecko trading bot**](https://github.com/askmike/gekko) — Bitcoin trading bot & backtesting platform (JavaScript/Node.js)  
+  Building **scalable trading bots** for multiple markets  
+
 ## Skills & Tech Stack
 
 - **Blockchain Development**  
@@ -29,30 +53,6 @@
   Docker / Ansible / PM2  
   PostgreSQL, MongoDB  
   Node.js services & microservices  
-
-## Projects & Contributions
-
-- [**ADAMANT Messenger**](https://github.com/adamant-im) — Blockchain communication platform  
-  Contributor to **secure, decentralized, anonymous messenger**  
-  Focus on blockchain nodes, app integrations, and bot ecosystem  
-
-- [**MarketMaking.App**](https://github.com/Adamant-im/adamant-tradebot) — Self-hosted Market-Making Bot  
-  Designed for crypto projects to maintain **liquidity, spread, and trading volume**  
-  Exchange connectors, strategy modules, and deployment tooling  
-
-- **Ethereum ecosystem**  
-  Contributor to Ethereum services and tooling  
-  [**Ethereum Transaction Indexer**](https://github.com/Adamant-im/ETH-transactions-storage) — Indexer for Ethereum to get transaction list by ETH address  
-  Integrations with ERC-20 tokens, gas optimizations, API services  
-
-- **DEX platforms**  
-  Contributions to decentralized trading platforms  
-  Expertise in swaps, liquidity pools, and on-chain trading bots  
-
-- **CEX APIs & Bots**  
-  Advanced experience with centralized exchange APIs  
-  [**Gecko trading bot**](https://github.com/Adamant-im/ETH-transactions-storage) — Bitcoin trading bot & backtesting platform (JavaScript/Node.js)  
-  Building **scalable trading bots** for multiple markets  
 
 ## 🛠 Contributor to Decentralization  
 
