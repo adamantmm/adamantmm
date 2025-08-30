@@ -26,7 +26,7 @@
 
 - **CEX APIs & Bots**  
   Advanced experience with centralized exchange APIs  
-  [**Gecko trading bot**](https://github.com/askmike/gekko) — Bitcoin trading bot & backtesting platform (JavaScript/Node.js)  
+  [**Gekko trading bot**](https://github.com/askmike/gekko) — Bitcoin trading bot & backtesting platform (JavaScript/Node.js)  
   Building **scalable trading bots** for multiple markets  
 
 ## Skills & Tech Stack
